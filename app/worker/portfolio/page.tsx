@@ -1,0 +1,1 @@
+export default function Portfolio(){return <div className="container min-h-[50vh] py-12"><p className="eyebrow">Worker dashboard · Demo</p><h1 className="mt-2 text-3xl font-extrabold">Work portfolio</h1><div className="card mt-6 p-7 text-muted">Portfolio uploads are unavailable until Supabase Storage is configured. Never upload identity documents as work photos.</div></div>}
